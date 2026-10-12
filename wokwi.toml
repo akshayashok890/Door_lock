@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "build/sketch.ino.bin"
-elf = "build/sketch.ino.elf"
+firmware = ".pio/build/bluepill_f103c8/firmware.bin"
+elf = ".pio/build/bluepill_f103c8/firmware.elf"
